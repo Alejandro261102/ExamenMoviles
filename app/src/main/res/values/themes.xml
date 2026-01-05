@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.RastreadorIPN" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ipn_guinda</item> </style>
+
+    <style name="Theme.Guinda" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ipn_guinda</item>
+        <item name="android:statusBarColor">@color/ipn_guinda</item>
+    </style>
+
+    <style name="Theme.Azul" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/escom_azul</item>
+        <item name="android:statusBarColor">@color/escom_azul</item>
+    </style>
+</resources>

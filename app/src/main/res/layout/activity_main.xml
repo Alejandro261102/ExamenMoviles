@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView android:id="@+id/tvCoords" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Lat: 0.0, Lon: 0.0" />
+
+    <RadioGroup android:id="@+id/rgInterval" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+        <RadioButton android:id="@+id/rb10s" android:text="10s" android:checked="true"/>
+        <RadioButton android:id="@+id/rb60s" android:text="60s"/>
+        <RadioButton android:id="@+id/rb5m" android:text="5min"/>
+    </RadioGroup>
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:id="@+id/btnStart" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Iniciar" />
+        <Button android:id="@+id/btnStop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Detener" />
+        <Button android:id="@+id/btnHistory" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Historial" />
+    </LinearLayout>
+
+    <Button android:id="@+id/btnTheme" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cambiar Tema (IPN/ESCOM)" />
+
+    <org.osmdroid.views.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
