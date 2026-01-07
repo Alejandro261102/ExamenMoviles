@@ -57,7 +57,7 @@ Este proyecto cumple con la totalidad de los requerimientos solicitados en la ev
 
 | Pantalla Principal (Ruta) | Historial de Ubicaciones | Cambio de Tema (IPN/ESCOM) |
 |:-------------------------:|:------------------------:|:--------------------------:|
-| *(Inserte captura aquí)* | *(Inserte captura aquí)* | *(Inserte captura aquí)* |
+| ![Intervalo 10s](Imagenes/imagen.jpeg) | *(Inserte captura aquí)* | *(Inserte captura aquí)* |
 
 ## 📄 Estructura del Proyecto
 
