@@ -55,9 +55,9 @@ Este proyecto cumple con la totalidad de los requerimientos solicitados en la ev
 
 ## 📸 Capturas de Pantalla
 
-| Intervalo 10 s | Modo Obscuro | Modo Azul |
-|:-------------------------:|:------------------------:|:--------------------------:|
-| ![Intervalo 10s](Imagenes/Intervalo_10s.jpeg) | ![Modo Obscuro](Imagenes/Modo_obscuro.jpeg) | ![Modo Azul](Imagenes/Modo_azul.jpeg) |
+| Intervalo 10 s | Modo Obscuro | Modo Azul | Historial | Ruta del Historial |
+|:-------------------------:|:------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
+| ![Intervalo 10s](Imagenes/Intervalo_10s.jpeg) | ![Modo Obscuro](Imagenes/Modo_obscuro.jpeg) | ![Modo Azul](Imagenes/Modo_azul.jpeg) | ![Historial](Imagenes/Historial.jpeg) | ![Ruta del Historial](Imagenes/ruta.jpeg) |
 
 ## 📄 Estructura del Proyecto
 
