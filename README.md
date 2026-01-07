@@ -55,9 +55,9 @@ Este proyecto cumple con la totalidad de los requerimientos solicitados en la ev
 
 ## 📸 Capturas de Pantalla
 
-| Pantalla Principal (Ruta) | Historial de Ubicaciones | Cambio de Tema (IPN/ESCOM) |
+| Intervalo 10 s | Modo Obscuro | Modo Azul |
 |:-------------------------:|:------------------------:|:--------------------------:|
-| ![Intervalo 10s](Imagenes/Intervalo_10s.jpeg) | *(Inserte captura aquí)* | *(Inserte captura aquí)* |
+| ![Intervalo 10s](Imagenes/Intervalo_10s.jpeg) | ![Modo Obscuro](Imagenes/Modo_obscuro.jpeg) | ![Modo Azul](Imagenes/Modo_azul.jpeg) |
 
 ## 📄 Estructura del Proyecto
 
